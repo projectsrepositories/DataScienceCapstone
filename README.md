@@ -1,3 +1,3 @@
 # DataScienceCapstone
 
-This folder contains all the work done for the Applied Data Science Capstone project by IBM Skills Network in Coursera. 
+This folder contains all the work done for the Applied Data Science Capstone project in Coursera (IBM Skills Network). 
